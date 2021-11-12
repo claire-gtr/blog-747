@@ -12,6 +12,7 @@ gem 'dotenv-rails', groups: [:development, :test]
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
+gem 'cloudinary', '~> 1.16.0'
 gem 'simple_form'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 4.0'
